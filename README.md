@@ -1,3 +1,7 @@
+# NOTICE!!!
+THIS PACKAGE STRIPPED OUT `USB` AND `SERIALPORT` DEPENDENCIES.
+IT IS INTENDED TO BE USED WITH PRIVATE PROJECTS.
+
 # ESCPOS [![npm version](https://badge.fury.io/js/escpos.svg)](https://www.npmjs.com/package/escpos )
 
 ESC/POS Printer driver for node
