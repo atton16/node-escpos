@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/song940/node-escpos.git"
+    "url": "git+https://github.com/atton16/node-escpos.git"
   },
   "keywords": [
     "escpos",
@@ -23,18 +23,16 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/song940/node-escpos/issues"
+    "url": "https://github.com/atton16/node-escpos/issues"
   },
-  "homepage": "https://github.com/song940/node-escpos#readme",
+  "homepage": "https://github.com/atton16/node-escpos#readme",
   "dependencies": {
     "iconv-lite": "*",
     "mutable-buffer": "*"
   },
   "optionalDependencies": {
     "get-pixels": "*",
-    "serialport": "*",
     "qr-image": "*",
-    "usb": "*"
   },
   "devDependencies": {
     "mocha": "*"
